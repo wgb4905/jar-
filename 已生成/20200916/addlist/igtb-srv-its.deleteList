@@ -1,0 +1,15 @@
+lib/igtb-core-0.0.19-20200909.045208-17.jar
+lib/igtb-core-authflow-0.0.19-20200825.084701-8.jar
+lib/igtb-core-quota-0.0.19-20200908.034444-5.jar
+lib/igtb-domain-0.0.19-20200909.014409-20.jar
+lib/igtb-fc-client-0.0.19-20200908.034702-7.jar
+lib/igtb-mc-client-0.0.19-20200908.034819-7.jar
+lib/igtb-prd-0.0.19-20200908.035035-7.jar
+lib/igtb-prd-its-0.0.19-20200908.115827-46.jar
+lib/igtb-srv-base-publish-0.0.19-20200908.055845-26.jar
+lib/igtb-srv-common-0.0.19-20200909.045507-8.jar
+lib/igtb-srv-fc-publish-0.0.19-20200908.035728-5.jar
+lib/igtb-srv-its-publish-0.0.19-20200909.032138-125.jar
+lib/igtb-srv-uc-publish-0.0.19-20200909.020446-16.jar
+lib/igtb-tc-client-0.0.19-20200908.040119-7.jar
+lib/igtb-util-0.0.19-20200908.040426-7.jar
